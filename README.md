@@ -69,6 +69,9 @@ Running the detection pipeline requires the trained YOLO model weights (`.pt` fi
 The weights can be downloaded from the following link:  
 https://drive.google.com/file/d/1LGhTr1WuqYC2eNBksiMvA9T_ptEQnFKf/view
 
+The partially annotated dataset v1 can be found at this link:
+https://universe.roboflow.com/yolodatasetcreate/moon_crater_boulder
+
 ---
 
 ## Sample Outputs
